@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kasa_v1/static/css/main.70494c2f.css",
+    "main.js": "/kasa_v1/static/js/main.f180cc56.js",
+    "index.html": "/kasa_v1/index.html",
+    "main.70494c2f.css.map": "/kasa_v1/static/css/main.70494c2f.css.map",
+    "main.f180cc56.js.map": "/kasa_v1/static/js/main.f180cc56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70494c2f.css",
+    "static/js/main.f180cc56.js"
+  ]
+}
